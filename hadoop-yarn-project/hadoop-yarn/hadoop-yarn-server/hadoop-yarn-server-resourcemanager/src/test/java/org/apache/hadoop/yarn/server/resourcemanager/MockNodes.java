@@ -228,7 +228,7 @@ public class MockNodes {
     }
 
 	@Override
-	public long getCurrentActualMemory() {
+	public long getCurrentRealMemory() {
 		// TODO Auto-generated method stub
 		return 0;
 	}
